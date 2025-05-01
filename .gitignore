@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Robot Framework result files
+output.xml
+log.html
+report.html
+*.log
+*.xml
+
+# Robot Framework result folders
+results/
+reports/
+logs/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Python virtual environment
+venv/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Pip freeze / local configs
+pip-log.txt
+*.egg-info/
+
